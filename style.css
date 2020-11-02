@@ -1,0 +1,244 @@
+.navbar-brand{
+	font-size: 28px;
+	font-family: Georgia;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: Georgia;
+}
+.section-title{
+	font-weight: bolder;
+	
+}
+
+.hr-style{
+	border: 2px solid white;
+	border-bottom: none;
+	width: 150px;
+	margin-left: 0px;
+}
+ header{
+ 	background-image: url(https://images.pexels.com/photos/3756042/pexels-photo-3756042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+ 	background-position: center;
+ 	background-attachment: fixed;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ }
+
+ .navbar{
+ 	padding: 1% 10%;
+ 	background-color: rgba(0, 0, 0, 0.3);
+ }
+
+ .navbar-icon{
+ 	color: white;
+ }
+
+ .navbar-brand{
+ 	font-size: 50px;
+ 	height: auto;
+
+  }
+
+ .nav-link{
+ 	color: white;
+ 	margin: 10px;
+ 	border-radius: 5px;
+ 	transition: .5s;
+ }
+
+ .nav-link:hover{
+ 	background-color: #00bcd4;
+ 	color: white;
+ 	transform: scale(1.1);
+ }
+ .banner-container{
+ 	height: 100vh;
+ }
+
+ .banner-contents{
+ 	margin-top: 80px;
+ 	margin-left: 100px;
+
+ }
+
+ .btn{
+ 	font-size: 15px;
+ 	
+ }
+
+ 
+
+ .headline{
+ 	margin-bottom: 10px;
+
+ }
+ #features{
+ 	padding: 5% 10%;
+ 	background-color: black;
+ }
+
+ #features h4{
+ 	text-transform: uppercase;
+ }
+
+.features-col, .features-col-2, .features-col-3 {
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 20px 0px;
+	transition: .5s
+
+}
+
+
+.features-col:hover{
+	transform: scale(1.1);
+	box-shadow: 2px 6px 5px blue;
+}
+.features-col-2:hover{
+	transform: scale(1.1);
+	box-shadow: 2px 0px 5px 5px orange;
+}
+.features-col-3:hover{
+	transform: scale(1.1);
+	box-shadow: 0px 0px 10px red;
+}
+
+.icon-class{
+	background-color: #F70505;
+	padding: 15px;
+	color: white;
+	margin: 5px 0px;
+}
+#about-us{
+	padding: 5% 10%;
+	background-color: #0f3057;
+
+}
+#about-us h3{
+	color: white;
+	text-transform: uppercase;
+}
+#about-us p{
+	color: white;
+}
+
+#profile-me{
+	padding: 5% 10%;
+	background-color: #cf7500;
+}
+
+#profile-me h4{
+	color: white;
+	font-family: georgia;
+}
+
+#profile-me p{
+	color: white;
+	margin-bottom: 0;
+	font-weight: lighter;
+	font-family: Georgia;
+	line-height: 40px;
+
+}
+
+.basic-desc{
+	margin-left: 180px;
+	margin-top: 50px;
+	text-transform: uppercase;
+}
+
+
+#profile-me h3{
+	color: blue;
+	font-family: georgia;
+	text-transform: uppercase;
+}
+
+#footer{
+	background-color: #07031a;
+	padding: 3% 10%;
+	margin-top: 0px;
+	margin-bottom: 0;
+
+}
+
+
+#footer h5{
+	text-transform: uppercase;
+	font-size: 17px;
+}
+
+#footer h6{
+	text-transform: uppercase;
+	font-size: 13px;
+	margin-left: 50px;
+	margin-top: 30px;
+	color: white;
+}
+
+#footer p{
+	color: gray;
+	margin-left: 55px;
+
+}
+
+.hr-styles{
+	border: 1px solid gray;
+	border-bottom: none;
+	width: 280px;
+	margin-left: 0px;
+	}
+
+.alignment p{
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.hr-styles3{
+	border: 1px solid gray;
+	border-bottom: 10px;
+	width: 1050px;
+	margin-left: 0px;
+}
+
+
+#footer-2nd {
+	background-color: #07031a;
+	padding: 1% 10%;
+	margin-top: 0px;
+	margin-bottom: 0;
+}
+
+#footer-2nd h6{
+	text-transform: uppercase;
+	font-size: 13px;
+	margin-left: 50px;
+	margin-top: 0px;
+	color: white;
+}
+
+#footer-2nd p{
+	color: gray;
+	margin-left: 70px;
+}
+
+.card-icon{
+	color: white;
+	margin-left: 80px;
+
+}
+
+#footer-last p{
+	margin-right: 30px;
+	margin-top: 0;
+}
+
+.footer-icon{
+	color: white;
+	margin-left: 130px;
+}
